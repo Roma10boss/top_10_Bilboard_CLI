@@ -1,6 +1,7 @@
 require "bilboard/version"
 
 module Bilboard
-  class Error < StandardError; end
+  class Error < StandardError
   # Your code goes here...
+  end
 end
