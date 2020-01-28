@@ -3,27 +3,27 @@ class Bilboard::TOP10
 
   def today
     #this is the method where the list display
-    puts <<-DOC.gsub/^\s*/,''
-    1. The Box (Roddy Ricch)
+    #puts <<-DOC.gsub/^\s*/,''
+    #1. The Box (Roddy Ricch)
 
-    2. Life Is Good (Future Featuring Drake)
+    #2. Life Is Good (Future Featuring Drake)
 
-    3. Circles (Post Malone)
+    #3. Circles (Post Malone)
 
-    4. Memories (Maroon 5)
+    #4. Memories (Maroon 5)
 
-    5. Lose You To Love Me (Selena Gomez)
+    #5. Lose You To Love Me (Selena Gomez)
 
-    6. Someone You Loved (Lewis Capaldi)
+    #6. Someone You Loved (Lewis Capaldi)
 
-    7. 10,000 Hours (Dan + Shay & Justin Bieber)
+    #7. 10,000 Hours (Dan + Shay & Justin Bieber)
 
-    8. Dance Monkey (Tones And I)
+    #8. Dance Monkey (Tones And I)
 
-    9. Roxanne (Arizona Zervas)
+    #9. Roxanne (Arizona Zervas)
 
-    10. Yummy (Justin Bieber)
-    DOC
+    #10. Yummy (Justin Bieber)
+    #DOC
     top10_1 = self.new
     top10_1.title = "The Box"
     top10_1.artist = "Roddy Ricch"
