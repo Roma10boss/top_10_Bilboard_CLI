@@ -1,9 +1,8 @@
-# Bilboard
-Today we are changing this file a little bit.
+# Bilboard CLI
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bilboard`. To experiment with that code, run `bin/console` for an interactive prompt.
+This command line interface allows a user to access the top 10 song on the bilboard chart.
+The list is available for users top check out and even get more information about when interacting with the program.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
